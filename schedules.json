@@ -1,0 +1,136 @@
+{
+  "classes": [
+    "Spanish",
+    "Geometry",
+    "History",
+    "VR",
+    "Chemistry",
+    "Cybersecurity",
+    "English",
+    "Invasion & Field",
+  ],
+
+  "A": {
+    "title": "A Day",
+    "schedule": [
+      {"name": 1, "start": "7:45", "end": "9:15"},
+      {"name": 2, "start": "9:22", "end": "10:52"},
+      {"name": 3, "start": "10:59", "end": "12:29"},
+      {"name": "Lunch", "start": "12:29", "end": "1:07"},
+      {"name": 4, "start": "1:14", "end": "2:45"}
+    ]
+  },
+
+  "B": {
+    "title": "B Day",
+    "schedule": [
+      {"name": 5, "start": "7:45", "end": "9:15"},
+      {"name": 6, "start": "9:22", "end": "10:52"},
+      {"name": 7, "start": "10:59", "end": "12:29"},
+      {"name": "Lunch", "start": "12:29", "end": "1:07"},
+      {"name": 8, "start": "1:14", "end": "2:45"}
+    ]
+  },
+
+  "LateStartA": {
+    "title": "Late Start",
+    "schedule": [
+      {"name": 1, "start": "10:15", "end": "11:08"},
+      {"name": 2, "start": "11:15", "end": "12:08"},
+      {"name": 3, "start": "12:15", "end": "1:08"},
+      {"name": "Lunch", "start": "1:08", "end": "1:45"},
+      {"name": 4, "start": "1:52", "end": "2:45"}
+    ]
+  },
+
+  "LateStartB": {
+    "title": "Late Start",
+    "schedule": [
+      {"name": 5, "start": "10:15", "end": "11:08"},
+      {"name": 6, "start": "11:15", "end": "12:08"},
+      {"name": 7, "start": "12:15", "end": "1:08"},
+      {"name": "Lunch", "start": "1:08", "end": "1:45"},
+      {"name": 8, "start": "1:52", "end": "2:45"}
+    ]
+  },
+
+  "AdvisoryA": {
+    "title": "Advisory",
+    "schedule": [
+      {"name": 1, "start": "7:45", "end": "9:05"},
+      {"name": "Advisory", "start": "9:12", "end": "9:47"},
+      {"name": 2, "start": "9:54", "end": "11:13"},
+      {"name": 3, "start": "11:20", "end": "12:40"},
+      {"name": "Lunch", "start": "12:40", "end": "1:18"},
+      {"name": 4, "start": "1:25", "end": "2:45"}
+    ]
+  },
+
+  "AdvisoryB": {
+    "title": "Advisory",
+    "schedule": [
+      {"name": 5, "start": "7:45", "end": "9:05"},
+      {"name": "Advisory", "start": "9:12", "end": "9:47"},
+      {"name": 6, "start": "9:54", "end": "11:13"},
+      {"name": 7, "start": "11:20", "end": "12:40"},
+      {"name": "Lunch", "start": "12:40", "end": "1:18"},
+      {"name": 8, "start": "1:25", "end": "2:45"}
+    ]
+  },
+
+  "Finals1": {
+    "title": "Finals 1",
+    "date": ["2026-12-17", "2026-05-19"],
+    "schedule": [
+      {"name": 1, "start": "7:45", "end": "9:15"},
+      {"name": 2, "start": "9:22", "end": "10:52"},
+      {"name": 3, "start": "10:52", "end": "1:07"}
+    ]
+  },
+
+  "Finals2": {
+    "title": "Finals 2",
+    "date": ["2026-12-18", "2026-05-20"],
+    "schedule": [
+      {"name": 5, "start": "7:45", "end": "9:15"},
+      {"name": 6, "start": "9:22", "end": "10:52"},
+      {"name": 7, "start": "10:52", "end": "1:07"}
+    ]
+  },
+
+  "Finals3": {
+    "title": "Finals 3",
+    "date": ["2026-12-19", "2026-05-21"],
+    "schedule": [
+      {"name": 4, "start": "7:45", "end": "9:00"},
+      {"name": 8, "start": "9:00", "end": "10:30"}
+    ]
+  },
+
+
+  
+  
+  "PepRallyA": {
+    "title": "Pep Rally",
+    "schedule": [
+      {"name": 1, "start": "7:45", "end": "9:10"},
+      {"name": 2, "start": "9:15", "end": "10:35"},
+      {"name": 3, "start": "10:40", "end": "12:00"},
+      {"name": "Lunch", "start": "12:00", "end": "12:40"},
+      {"name": 4, "start": "12:45", "end": "2:05"},
+      {"name": "Pep Rally", "start": "2:05", "end": "2:45"}
+    ]
+  },
+
+  "PepRallyB": {
+    "title": "Pep Rally",
+    "schedule": [
+      {"name": 5, "start": "7:45", "end": "9:10"},
+      {"name": 6, "start": "9:15", "end": "10:35"},
+      {"name": 7, "start": "10:40", "end": "12:00"},
+      {"name": "Lunch", "start": "12:00", "end": "12:40"},
+      {"name": 8, "start": "12:45", "end": "2:05"},
+      {"name": "Pep Rally", "start": "2:05", "end": "2:45"}
+    ]
+  }
+}

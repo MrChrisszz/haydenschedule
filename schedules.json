@@ -107,6 +107,13 @@
     ]
   },
 
+  "Testing": {
+    "title": "Testing",
+    "schedule": [
+      {"name": "Advisory", "start": "07:45", "end": "~10:45"}
+    ]
+  },
+
 
   
   
@@ -132,5 +139,7 @@
       {"name": 8, "start": "12:45", "end": "02:05"},
       {"name": "Pep Rally", "start": "02:05", "end": "02:45"}
     ]
-  }
+  },
+
+  "noSchool": ["2026-04-14"]
 }
